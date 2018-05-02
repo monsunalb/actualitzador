@@ -10,3 +10,7 @@ USAGE
 
 EXAMPLE
 ~$ python actualitzador.py /root/Documents/mailing/sendmail.py
+
+WARNING
+Pogram developed for Linux!
+Any suggestons will be welcome!
